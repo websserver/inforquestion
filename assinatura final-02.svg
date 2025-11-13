@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_5" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 214 70">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1, .st2 {
+        font-size: 9.1px;
+      }
+
+      .st1, .st2, .st3 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+
+      .st1, .st4, .st3 {
+        fill: #242424;
+      }
+
+      .st5 {
+        fill: #f7f7f7;
+      }
+
+      .st6, .st7 {
+        fill: #da7d2f;
+      }
+
+      .st7 {
+        stroke: #da7d2f;
+        stroke-miterlimit: 10;
+      }
+
+      .st8 {
+        clip-path: url(#clippath);
+      }
+
+      .st4 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-size: 2.9px;
+        font-weight: 500;
+      }
+
+      .st3 {
+        font-size: 3px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" y="-2" width="216.8" height="72.2"/>
+    </clipPath>
+  </defs>
+  <rect class="st5" y="-2" width="216.8" height="72.2"/>
+  <g class="st8">
+    <path d="M145.2,87.7l56-56c4.5-4.5,11.8-4.5,16.3,0l56,56c7.3,7.3,2.1,19.7-8.2,19.7h-112.1c-10.3,0-15.5-12.5-8.2-19.7Z"/>
+    <path d="M219.8-44.5l-56,56c-4.5,4.5-11.8,4.5-16.3,0l-56-56c-7.3-7.3-2.1-19.7,8.2-19.7h112.1c10.3,0,15.5,12.5,8.2,19.7Z"/>
+    <path d="M35.8-15.6H-24.8c-8.1,0-12.1,9.8-6.4,15.5L-6.7,24.4c5.4,5.4,5.4,14.1,0,19.5l-24.5,24.5c-5.7,5.7-1.7,15.5,6.4,15.5h60.6c8.1,0,12.1-9.8,6.4-15.5l-24.5-24.5c-5.4-5.4-5.4-14.1,0-19.5L42.2,0c5.7-5.7,1.7-15.5-6.4-15.5Z"/>
+  </g>
+  <path class="st6" d="M175.8,7.3v7.9c0,.6-.5,1.2-1.2,1.2h-7.9c-1,0-1.5-1.2-.8-2l7.9-7.9c.7-.7,2-.2,2,.8Z"/>
+  <line class="st7" x1="126" y1="24.1" x2="126" y2="54.4"/>
+  <path class="st6" d="M180.2,30.1l-.5-7.9c0-.6.4-1.2,1.1-1.2l7.9-.5c1,0,1.6,1.1.9,1.9l-7.4,8.4c-.7.8-2,.3-2-.7Z"/>
+  <g>
+    <text class="st4" transform="translate(131.2 27.9)"><tspan x="0" y="0">244 802 811 </tspan></text>
+    <text class="st4" transform="translate(131.2 34.2)"><tspan x="0" y="0">geral@inforquestion.pt</tspan></text>
+    <text class="st4" transform="translate(131.2 40.9)"><tspan x="0" y="0">Rua da Nossa Senhora do Amparo </tspan><tspan x="0" y="3.5">nº5 Lj. B 2415-526 Leiria</tspan></text>
+    <text class="st4" transform="translate(131.2 51.5)"><tspan x="0" y="0">www.inforquestion.pt</tspan></text>
+  </g>
+  <g>
+    <text class="st1" transform="translate(77.9 33)"><tspan x="0" y="0">JOSÉ</tspan></text>
+    <text class="st3" transform="translate(78.1 48.6)"><tspan x="0" y="0">DIRETOR COMERCIAL</tspan></text>
+    <text class="st2" transform="translate(77.6 42.6)"><tspan x="0" y="0">MARTINS</tspan></text>
+  </g>
+  <circle cx="51" cy="37.8" r="22.7"/>
+  <image width="1252" height="1252" transform="translate(28.2 15.8) scale(0)" xlink:href="G:\Discos partilhados\Visitfoods\00_CLIENTES (NOVO)\InforQuestion\01_Logotipo e Identidade corporativa\01_Logotipo\logo-sombra.png"/>
+</svg>
